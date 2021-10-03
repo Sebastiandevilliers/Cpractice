@@ -1,2 +1,2 @@
 # Cpractice
-Learning C
+Learning C++
